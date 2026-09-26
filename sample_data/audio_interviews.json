@@ -1,0 +1,11 @@
+[
+  {"id": "AI01", "speaker_role": "native speaker, elder", "date": "2024-02-20",
+   "transcript_summary": "Describes that greeting an elder brother after a fight uses a softer verb 'firli' rather than plain 'aau', and that word order shifts to show the relationship is healed. Confirms 'na' precedes verbs for negation across all tenses she demonstrated.",
+   "quality_note": "Clear audio, minor code-switching with English nouns."},
+  {"id": "AI02", "speaker_role": "native speaker, young adult", "date": "2024-02-21",
+   "transcript_summary": "Uses 'bhai-a' casually with close friends as a joking term, but says it would be an insult if used toward an actual elder brother in a serious context.",
+   "quality_note": "Some laughter and cross-talk obscures a few words."},
+  {"id": "AI03", "speaker_role": "native speaker, workplace context", "date": "2024-02-22",
+   "transcript_summary": "Demonstrates formal politeness verb forms with 'sahib' but admits she rarely uses this register herself and is repeating what her father used to say.",
+   "quality_note": "Secondhand knowledge, lower reliability for this specific register."}
+]

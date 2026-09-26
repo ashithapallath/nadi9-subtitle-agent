@@ -1,0 +1,24 @@
+{
+  "corrected_evidence": "dictionary_a:full",
+  "field_path": "entries.danger",
+  "old_value": "biopod",
+  "new_value": "[REMOVED: entry found to be poisoned/unreliable, do not use]",
+  "reason": "Post-hoc audit found dictionary_a's 'danger' entry was deliberately corrupted.",
+  "rules_retested": [],
+  "subtitles_reverified": [
+    {
+      "subtitle_id": "S009",
+      "before": {
+        "nadi_9_text": "jibi bipod na",
+        "decision": "HUMAN_REVIEW",
+        "confidence": 0.56
+      },
+      "after": {
+        "nadi_9_text": "jibi bipod na",
+        "decision": "AUTO_APPROVED",
+        "confidence": 0.8
+      }
+    }
+  ],
+  "untouched_subtitle_count": 8
+}

@@ -1,0 +1,22 @@
+[
+  {"id": "E01", "source": "Are you coming home tonight?", "nadi9": "ni ghar aaj ratri mo", "speaker": "wife to husband", "scene": "domestic, neutral", "date": "2024-01-10", "flagged_for_review": false},
+  {"id": "E02", "source": "I will not go there again.", "nadi9": "mo tey punar na jibi", "speaker": "elder to younger", "scene": "argument", "date": "2024-01-10", "flagged_for_review": false},
+  {"id": "E03", "source": "Give me the letter.", "nadi9": "chithi mo dey", "speaker": "peer to peer", "scene": "neutral request", "date": "2024-01-11", "flagged_for_review": false},
+  {"id": "E04", "source": "You came back, elder brother?", "nadi9": "dada ni firli mo?", "speaker": "younger sibling to elder brother", "scene": "reunion", "date": "2024-01-11", "flagged_for_review": false},
+  {"id": "E05", "source": "He is not listening to me.", "nadi9": "se mo katha na sunuchi", "speaker": "parent about child", "scene": "frustration", "date": "2024-01-12", "flagged_for_review": false},
+  {"id": "E06", "source": "Elder brother, please forgive me.", "nadi9": "dada, mo tey khama karo", "speaker": "younger sibling to elder brother", "scene": "reconciliation", "date": "2024-01-12", "flagged_for_review": false},
+  {"id": "E07", "source": "You came back, elder brother?", "nadi9": "dada, ni firli aau?", "speaker": "younger sibling to elder brother (after reconciliation)", "scene": "reunion, post-conflict", "date": "2024-02-02", "flagged_for_review": false},
+  {"id": "E08", "source": "I did not eat today.", "nadi9": "mo aaj na khaili", "speaker": "peer to peer", "scene": "casual", "date": "2024-01-13", "flagged_for_review": false},
+  {"id": "E09", "source": "Sir, will you come tomorrow?", "nadi9": "sahib, apuni kaali ausibe ki?", "speaker": "junior to senior/formal", "scene": "workplace", "date": "2024-01-13", "flagged_for_review": false},
+  {"id": "E10", "source": "Friend, will you come tomorrow?", "nadi9": "bandhu, ni kaali aasibu ki?", "speaker": "peer to peer", "scene": "casual", "date": "2024-01-14", "flagged_for_review": false},
+  {"id": "E11", "source": "She lost the ring.", "nadi9": "se mundi harai deli", "speaker": "narrator", "scene": "plot point", "date": "2024-01-14", "flagged_for_review": false},
+  {"id": "E12", "source": "I am not angry with you.", "nadi9": "mo tey rag na kori", "speaker": "elder to younger", "scene": "comfort", "date": "2024-01-15", "flagged_for_review": false},
+  {"id": "E13", "source": "Where is my brother?", "nadi9": "mor dada kouthi?", "speaker": "sibling", "scene": "search", "date": "2024-01-15", "flagged_for_review": false},
+  {"id": "E14", "source": "He laughed at the joke.", "nadi9": "se thatta re hasila", "speaker": "narrator", "scene": "humour", "date": "2024-01-16", "flagged_for_review": false},
+  {"id": "E15", "source": "Do not go there, it is dangerous.", "nadi9": "otei na jao, biopod ache", "speaker": "elder to younger", "scene": "warning", "date": "2024-01-16", "flagged_for_review": true},
+  {"id": "E16", "source": "I understand your pain.", "nadi9": "mo tor dukha bujhuchi", "speaker": "peer to peer", "scene": "empathy", "date": "2024-01-17", "flagged_for_review": false},
+  {"id": "E17", "source": "Sir, I did not know.", "nadi9": "sahib, mo na jaanili", "speaker": "junior to senior/formal", "scene": "apology, formal", "date": "2024-01-17", "flagged_for_review": false},
+  {"id": "E18", "source": "The child is sleeping.", "nadi9": "pila ta soi achi", "speaker": "narrator", "scene": "neutral", "date": "2024-01-18", "flagged_for_review": false},
+  {"id": "E19", "source": "Grandmother told a story.", "nadi9": "aai ek kahani kohili", "speaker": "narrator", "scene": "family", "date": "2024-01-18", "flagged_for_review": true},
+  {"id": "E20", "source": "We will meet again.", "nadi9": "amey punar bheti hebu", "speaker": "peer to peer, parting", "scene": "farewell", "date": "2024-01-19", "flagged_for_review": false}
+]

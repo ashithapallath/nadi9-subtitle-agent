@@ -1,0 +1,94 @@
+[
+  {
+    "subtitle_id": "S003",
+    "source_text": "You came back, elder brother?",
+    "nadi_9_text": "dada ni firli mo?",
+    "confidence": 0.55,
+    "confidence_reason": "average source reliability 0.80 across 2 evidence item(s); -0.15 for 1 unresolved conflict(s); capped at 0.55: derivation relies on disputed rule(s) ['kinship-relationship-1']",
+    "decision": "HUMAN_REVIEW",
+    "evidence": [
+      "approved_example:E04",
+      "approved_example:E07"
+    ],
+    "assumptions": [
+      "spoken right after Amar and his brother reconcile following a long estrangement"
+    ],
+    "conflicts": [
+      "Multiple approved examples exist for this exact sentence with different Nadi-9 text depending on relationship state (kinship-relationship-1 is disputed): approved_example:E04='dada ni firli mo?', approved_example:E07='dada, ni firli aau?'"
+    ],
+    "review_question": "Two linguists disagree on whether the reconciliation meaning here comes from word order or verb choice (kinship-relationship-1 is disputed). Which kinship form applies after reconciliation?",
+    "rules_used": [
+      "kinship-relationship-1"
+    ]
+  },
+  {
+    "subtitle_id": "S004",
+    "source_text": "Sir, will you come tomorrow?",
+    "nadi_9_text": "sahib, apuni kaali ausibe ki?",
+    "confidence": 0.55,
+    "confidence_reason": "average source reliability 0.80 across 1 evidence item(s); capped at 0.55: derivation relies on disputed rule(s) ['respect-2']",
+    "decision": "HUMAN_REVIEW",
+    "evidence": [
+      "approved_example:E09"
+    ],
+    "assumptions": [],
+    "conflicts": [],
+    "review_question": "respect-2 is disputed (Grammar note flags this as LOW CONFIDENCE (only 2 supporting examples) -- carried over) -- please confirm this is correct here.",
+    "rules_used": [
+      "respect-2"
+    ]
+  },
+  {
+    "subtitle_id": "S005",
+    "source_text": "Do not go there, it is dangerous.",
+    "nadi_9_text": "otei na jao, biopod ache",
+    "confidence": 0.65,
+    "confidence_reason": "average source reliability 0.65 across 1 evidence item(s)",
+    "decision": "HUMAN_REVIEW",
+    "evidence": [
+      "approved_example:E15"
+    ],
+    "assumptions": [],
+    "conflicts": [],
+    "review_question": "Confidence below auto-approval threshold; please confirm before release.",
+    "rules_used": []
+  },
+  {
+    "subtitle_id": "S007",
+    "source_text": "The drone flew over the village.",
+    "nadi_9_text": null,
+    "confidence": 0.0,
+    "confidence_reason": "No supported translation could be constructed (unsupported vocabulary present).",
+    "decision": "INSUFFICIENT_EVIDENCE",
+    "evidence": [],
+    "assumptions": [],
+    "conflicts": [
+      "verification_flag: unsupported vocabulary: ['drone', 'flew', 'over', 'village']"
+    ],
+    "review_question": "No Nadi-9 term exists in either dictionary or the approved examples for: drone, flew, over, village. Should a loanword be used, or is a native circumlocution attested that we're missing?",
+    "rules_used": []
+  },
+  {
+    "subtitle_id": "S009",
+    "source_text": "Not go, danger.",
+    "nadi_9_text": "jibi bipod na",
+    "confidence": 0.56,
+    "confidence_reason": "average source reliability 0.71 across 5 evidence item(s); -0.15 for 1 unresolved conflict(s)",
+    "decision": "HUMAN_REVIEW",
+    "evidence": [
+      "approved_example:E02",
+      "approved_example:E05",
+      "dictionary_a:full#danger",
+      "dictionary_b:full#danger",
+      "dictionary_b:full#go"
+    ],
+    "assumptions": [],
+    "conflicts": [
+      "dictionary:A:danger ('biopod') vs dictionary:B:danger ('bipod')"
+    ],
+    "review_question": "Dictionary/source conflict must be resolved before release: dictionary:A:danger ('biopod') vs dictionary:B:danger ('bipod')",
+    "rules_used": [
+      "negation-1"
+    ]
+  }
+]

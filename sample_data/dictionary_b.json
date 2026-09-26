@@ -1,0 +1,14 @@
+{
+  "meta": {"name": "Dictionary B", "author": "Community linguist (R. Naik)", "date": "2024-06-15", "note": "Smaller, curated from native speaker fieldwork. Disagrees with Dictionary A on some entries."},
+  "entries": {
+    "come": "firli (returning-come, used for homecoming) / aasi (generic come)",
+    "go": "jibi", "elder brother": "dada (neutral) / bhai-a (very informal, disrespectful in some contexts)",
+    "not": "na", "letter": "chithi", "give": "dey", "listen": "sun",
+    "forgive": "khama", "today": "aaj", "eat": "khaili", "sir": "sahib",
+    "tomorrow": "kaali", "friend": "bandhu", "ring": "mundi", "lose": "harai deli",
+    "angry": "rag", "danger": "bipod",
+    "understand": "bujhuchi", "pain": "dukha", "know": "jaanili",
+    "child": "pila", "sleep": "soi achi", "grandmother": "aai",
+    "story": "kahani", "meet": "bheti", "again": "punar"
+  }
+}

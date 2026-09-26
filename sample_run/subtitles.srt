@@ -1,0 +1,35 @@
+1
+00:00:05,000 --> 00:00:07,500
+chithi mo dey
+
+2
+00:00:08,000 --> 00:00:10,000
+mo tey punar na jibi
+
+3
+00:00:12,000 --> 00:00:15,000
+[REVIEW] dada ni firli mo?
+
+4
+00:00:16,000 --> 00:00:18,000
+[REVIEW] sahib, apuni kaali ausibe ki?
+
+5
+00:00:19,000 --> 00:00:21,000
+[REVIEW] otei na jao, biopod ache
+
+6
+00:00:22,000 --> 00:00:24,000
+se mo katha na sunuchi
+
+7
+00:00:25,000 --> 00:00:27,000
+[NO SUPPORTED TRANSLATION -- see review_queue.json]
+
+8
+00:00:28,000 --> 00:00:30,000
+amey punar bheti hebu
+
+9
+00:00:31,000 --> 00:00:34,000
+[REVIEW] jibi bipod na

@@ -1,0 +1,59 @@
+{
+  "negation-1": {
+    "rule_id": "negation-1",
+    "description": "Negation is formed with the particle 'na' placed before the verb.",
+    "category": "negation",
+    "evidence": [
+      "approved_example:E02",
+      "approved_example:E05",
+      "approved_example:E08",
+      "approved_example:E12",
+      "approved_example:E15",
+      "approved_example:E17"
+    ],
+    "counterexamples": [],
+    "confidence": 0.9,
+    "status": "supported",
+    "reason": ""
+  },
+  "respect-2": {
+    "rule_id": "respect-2",
+    "description": "Addressing a formal/senior listener ('sahib') shifts the verb ending toward an '-ibe' form rather than the casual '-ibu' form.",
+    "category": "politeness",
+    "evidence": [
+      "approved_example:E09"
+    ],
+    "counterexamples": [],
+    "confidence": 0.35,
+    "status": "disputed",
+    "reason": "Grammar note flags this as LOW CONFIDENCE (only 2 supporting examples) -- carried over."
+  },
+  "kinship-relationship-1": {
+    "rule_id": "kinship-relationship-1",
+    "description": "The kinship term 'dada' (elder brother) changes position and/or co-occurring verb ('aau' vs 'firli') depending on whether the sibling relationship is currently tense or reconciled. Experts disagree on the exact mechanism (word order vs. verb choice).",
+    "category": "kinship",
+    "evidence": [
+      "approved_example:E04",
+      "approved_example:E06",
+      "approved_example:E07",
+      "approved_example:E13",
+      "expert_note:EXP01",
+      "expert_note:EXP02",
+      "expert_note:EXP03"
+    ],
+    "counterexamples": [],
+    "confidence": 0.45,
+    "status": "disputed",
+    "reason": "expert_note:EXP01 and expert_note:EXP02 propose two different mechanisms for the same data."
+  },
+  "grammar-unsupported-1": {
+    "rule_id": "grammar-unsupported-1",
+    "description": "Plural nouns always take the suffix '-loku' (modeled on an unrelated language family).",
+    "category": "model_proposed",
+    "evidence": [],
+    "counterexamples": [],
+    "confidence": 0.0,
+    "status": "rejected",
+    "reason": "Model claimed confidence 0.9 but offered zero verifiable evidence references. Rejected by the evidence-gate before it could ever influence a translation. This rule is NOT applied."
+  }
+}

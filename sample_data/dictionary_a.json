@@ -1,0 +1,13 @@
+{
+  "meta": {"name": "Dictionary A", "author": "Vendor (LexTrans Ltd.)", "date": "2023-11-01", "note": "Broad coverage, provenance of individual entries not fully documented."},
+  "entries": {
+    "come": "aau/aasi", "go": "jibi/jao", "elder brother": "dada", "not": "na",
+    "letter": "chithi", "give": "dey", "listen": "sun", "forgive": "khama",
+    "today": "aaj", "eat": "khaili", "sir": "sahib", "tomorrow": "kaali",
+    "friend": "bandhu", "ring": "mundi", "lose": "harai", "angry": "rag",
+    "brother": "dada", "laugh": "hasi", "joke": "thatta", "danger": "biopod",
+    "understand": "bujhu", "pain": "dukha", "know": "jaani", "child": "pila",
+    "sleep": "soi", "grandmother": "aai", "story": "kahani", "meet": "bheti",
+    "again": "punar", "house": "ghar", "night": "ratri", "night_alt": "raati"
+  }
+}

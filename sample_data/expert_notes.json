@@ -1,0 +1,8 @@
+[
+  {"id": "EXP01", "author": "Dr. Meena Rao (Linguist A)", "date": "2024-05-01",
+   "note": "The kinship term 'dada' placed sentence-final (as in E04 'dada ni firli mo?') signals a still-tense or unresolved relationship. When placed sentence-initial with 'firli' (as in E07, post-reconciliation), it signals warmth and resolution. This is a RELATIONSHIP-STATE marker, not free variation."},
+  {"id": "EXP02", "author": "Prof. K. Iyer (Linguist B)", "date": "2024-05-03",
+   "note": "I disagree partially with Dr. Rao. I believe the word-order shift in E04 vs E07 is about VERB CHOICE ('aau' vs 'firli'), not the position of 'dada'. 'firli' specifically implies 'returning home/to the fold' and is what carries the reconciliation meaning, independent of word order."},
+  {"id": "EXP03", "author": "S. Dutta (Field Consultant)", "date": "2024-05-10",
+   "note": "Both of the above are plausible. Recommend flagging any subtitle involving 'dada' + a return/coming verb for human review until we get more paired examples across relationship states."}
+]

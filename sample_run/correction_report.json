@@ -1,0 +1,32 @@
+{
+  "corrected_evidence": "expert_note:EXP03",
+  "field_path": "note",
+  "old_value": "Both of the above are plausible. Recommend flagging any subtitle involving 'dada' + a return/coming verb for human review until we get more paired examples across relationship states.",
+  "new_value": "RESOLVED 2024-06-01: field consensus confirms Dr. Rao's word-order account; verb choice ('firli' vs 'aau') is a secondary marker, not primary.",
+  "reason": "Linguist correction arrived mid-processing, resolving the kinship-relationship-1 dispute.",
+  "rules_retested": [
+    {
+      "rule_id": "kinship-relationship-1",
+      "status_before": "disputed",
+      "status_after": "disputed",
+      "confidence_before": 0.45,
+      "confidence_after": 0.45
+    }
+  ],
+  "subtitles_reverified": [
+    {
+      "subtitle_id": "S003",
+      "before": {
+        "nadi_9_text": "dada ni firli mo?",
+        "decision": "HUMAN_REVIEW",
+        "confidence": 0.55
+      },
+      "after": {
+        "nadi_9_text": "dada ni firli mo?",
+        "decision": "HUMAN_REVIEW",
+        "confidence": 0.55
+      }
+    }
+  ],
+  "untouched_subtitle_count": 8
+}
